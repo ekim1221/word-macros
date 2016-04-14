@@ -1,6 +1,7 @@
-Sub Macro1()
+'Changed name of macro to be more descriptive
+Sub Body()
 '
-' Macro1 Macro
+' Body Macro
 '
 '
     Selection.WholeStory
