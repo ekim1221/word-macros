@@ -1,4 +1,5 @@
 'Changed name of macro to be more descriptive
+'Run through tests to make sure it works
 Sub Body()
 '
 ' Body Macro
